@@ -5,7 +5,9 @@
 
 - 💬 Ask me about **Software Testing, Test Cases, Product Designing**
 
-- 📫 How to reach me **khalidhasanniloy@gmail.com**
+### 📫 How to reach me
+- **khalidhasanniloy@gmail.com**
+- **niloy@thebricks.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
